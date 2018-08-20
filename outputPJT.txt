@@ -1,0 +1,50 @@
+{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf0 /*\
+ * Shuaidong Pan \
+ * span11\
+ * project02\
+ * Lab MW 6:15-7:30\
+ */ \
+\
+**************THE OUT PUT FOR THE PROGRAM****************\
+\
+\
+\pard\pardeftab720\partightenfactor0
+\cf0 2.0\
+6.2\
+6.2\
+0.0\
+4.2\
+-4.2\
+12.0\
+16.0\
+-8.0\
+9.0\
+1.0\
+0.0\
+0.0\
+1.0\
+1.0\
+1.0\
+0.0\
+1.0\
+0.0\
+1.0\
+0.0\
+1.0\
+0.0\
+0.0\
+1.0\
+2.0\
+0.0\
+0.1411200080598672\
+1.0\
+please recheck the input number\
+Please check the number you entered\
+}
