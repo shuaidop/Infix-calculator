@@ -1,0 +1,12 @@
+
+//create the node class
+
+public class MyNode<AnyType> {
+	public AnyType data;
+	public MyNode<AnyType> next;
+
+	
+		
+	
+
+}
